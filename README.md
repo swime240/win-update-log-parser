@@ -44,4 +44,4 @@ python win_update_log_parser.py C:\Windows\Logs\WindowsUpdate
 
 ## 解析結果の例
 下図は生成された `ParsedWindowsUpdate.log` の例です。
-![解析結果の例](.\images\example.png)
+![解析結果の例](/images/example.png)
